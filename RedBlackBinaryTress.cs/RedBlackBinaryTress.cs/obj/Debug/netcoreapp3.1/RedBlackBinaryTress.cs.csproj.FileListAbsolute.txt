@@ -1,0 +1,14 @@
+C:\Users\rog\Data-Structure\RedBlackBinaryTress.cs\RedBlackBinaryTress.cs\bin\Debug\netcoreapp3.1\RedBlackBinaryTress.cs.exe
+C:\Users\rog\Data-Structure\RedBlackBinaryTress.cs\RedBlackBinaryTress.cs\bin\Debug\netcoreapp3.1\RedBlackBinaryTress.cs.deps.json
+C:\Users\rog\Data-Structure\RedBlackBinaryTress.cs\RedBlackBinaryTress.cs\bin\Debug\netcoreapp3.1\RedBlackBinaryTress.cs.runtimeconfig.json
+C:\Users\rog\Data-Structure\RedBlackBinaryTress.cs\RedBlackBinaryTress.cs\bin\Debug\netcoreapp3.1\RedBlackBinaryTress.cs.runtimeconfig.dev.json
+C:\Users\rog\Data-Structure\RedBlackBinaryTress.cs\RedBlackBinaryTress.cs\bin\Debug\netcoreapp3.1\RedBlackBinaryTress.cs.dll
+C:\Users\rog\Data-Structure\RedBlackBinaryTress.cs\RedBlackBinaryTress.cs\bin\Debug\netcoreapp3.1\RedBlackBinaryTress.cs.pdb
+C:\Users\rog\Data-Structure\RedBlackBinaryTress.cs\RedBlackBinaryTress.cs\obj\Debug\netcoreapp3.1\RedBlackBinaryTress.cs.csproj.AssemblyReference.cache
+C:\Users\rog\Data-Structure\RedBlackBinaryTress.cs\RedBlackBinaryTress.cs\obj\Debug\netcoreapp3.1\RedBlackBinaryTress.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rog\Data-Structure\RedBlackBinaryTress.cs\RedBlackBinaryTress.cs\obj\Debug\netcoreapp3.1\RedBlackBinaryTress.cs.AssemblyInfoInputs.cache
+C:\Users\rog\Data-Structure\RedBlackBinaryTress.cs\RedBlackBinaryTress.cs\obj\Debug\netcoreapp3.1\RedBlackBinaryTress.cs.AssemblyInfo.cs
+C:\Users\rog\Data-Structure\RedBlackBinaryTress.cs\RedBlackBinaryTress.cs\obj\Debug\netcoreapp3.1\RedBlackBinaryTress.cs.csproj.CoreCompileInputs.cache
+C:\Users\rog\Data-Structure\RedBlackBinaryTress.cs\RedBlackBinaryTress.cs\obj\Debug\netcoreapp3.1\RedBlackBinaryTress.cs.dll
+C:\Users\rog\Data-Structure\RedBlackBinaryTress.cs\RedBlackBinaryTress.cs\obj\Debug\netcoreapp3.1\RedBlackBinaryTress.cs.pdb
+C:\Users\rog\Data-Structure\RedBlackBinaryTress.cs\RedBlackBinaryTress.cs\obj\Debug\netcoreapp3.1\RedBlackBinaryTress.cs.genruntimeconfig.cache

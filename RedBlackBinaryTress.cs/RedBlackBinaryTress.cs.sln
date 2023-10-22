@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedBlackBinaryTress.cs", "RedBlackBinaryTress.cs\RedBlackBinaryTress.cs.csproj", "{0AB30C40-56D1-4D93-A82E-58C2E21164AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AB30C40-56D1-4D93-A82E-58C2E21164AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AB30C40-56D1-4D93-A82E-58C2E21164AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AB30C40-56D1-4D93-A82E-58C2E21164AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AB30C40-56D1-4D93-A82E-58C2E21164AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99631E0A-1F12-42EE-96B3-EA7D47F10CE2}
+	EndGlobalSection
+EndGlobal
