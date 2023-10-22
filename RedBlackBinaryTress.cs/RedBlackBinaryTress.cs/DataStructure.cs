@@ -1,5 +1,5 @@
 ﻿using System;
-
+using System.Diagnostics;
 public class RedBlackTreeSet
 {
     private class Node
@@ -414,6 +414,9 @@ public class RedBlackTrees
     //to test functions
     public static void Main(string[] args)
     {
+        Stopwatch stopwatch = new Stopwatch();
+        stopwatch.Start();
+
         RedBlackTreeSet set = new RedBlackTreeSet();
         set.Add(1);
         set.Add(4);
@@ -456,5 +459,9 @@ public class RedBlackTrees
         RedBlackTreeSet symmetricDifference = set.SymmetricDifference(subset);
         Console.WriteLine("Symmetric difference of the set and the subset {1, 2}: ");
         symmetricDifference.Print();
+
+        stopwatch.Stop();
+        double elapsedTimeInSeconds = stopwatch.Elapsed.TotalSeconds;
+        Console.WriteLine($"Time taken: {elapsedTimeInSeconds} seconds");
     }
 }
