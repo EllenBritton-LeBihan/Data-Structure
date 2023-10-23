@@ -1,8 +1,8 @@
 # Data-Structure - The Set data type
 
-This program runs code efficient calculations on an abstract set, the set has no particular order and no repetition. The data in the set may be Bool, char, int or any other data structure.
+This program runs code efficient calculations on an abstract data set, the set has no particular order and no repetition. The data in the set may be Bool, Char, Int or any other data structure.
 
-##Operations on data set
+## Operations on data set
 ```C#
 - Clear the set.
 - Empty the set.
@@ -19,6 +19,14 @@ This program runs code efficient calculations on an abstract set, the set has no
 ```
 - All the above operations were used using the Red-Black tree data structure. This data structure hold certain advantages, for example, maintaing balance and ensuring efficient operations for operations such as insertion, deletion and searching. By ensuring self-balancing the tree's height remains logarithmic, which leads to efficient search and insertions times (O(log n)).
 
--To measure efficiency of the code I used various data structures and compared time taken for it to compile and execute. These codes have been included in the "Comparisons" folder, and the results logged here: 
+- To gauge the code's efficiency, I employed two distinct data structures (Linked Lists and a greedy algorithm) to evaluate their performance in contrast to Red-Black Trees. The code samples for these evaluations can be found in the "Comparisons" folder, and the results are documented below: 
 
--By adding a "stopwatch" to the main function of the C# project we can see that 
+![image](https://github.com/Neo-3l/Data-Structure/assets/114653081/9f8fd42e-1abf-4ab2-b251-f33f5ddb340c)
+
+![image](https://github.com/Neo-3l/Data-Structure/assets/114653081/9545c506-8ada-4094-8918-e0ea353e5aed)
+
+![image](https://github.com/Neo-3l/Data-Structure/assets/114653081/b2f96cff-9193-4a73-a13f-6792ed3267da)
+
+*Comparison between compile and execution times*
+
+All of these data structures display considerable efficiency, with the Red-Black Tree emerging as the top performer overall. 
