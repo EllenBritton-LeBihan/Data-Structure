@@ -35,6 +35,6 @@ Speed test was carried out multiple times and averaged under the same environmen
 
 ## Resources
 
-https://www.geeksforgeeks.org/introduction-to-red-black-tree/
-https://www.geeksforgeeks.org/data-structures/linked-list/
-https://www.geeksforgeeks.org/greedy-algorithms/
+- https://www.geeksforgeeks.org/introduction-to-red-black-tree/
+- https://www.geeksforgeeks.org/data-structures/linked-list/
+- https://www.geeksforgeeks.org/greedy-algorithms/
