@@ -19,7 +19,7 @@ This program runs code efficient calculations on an abstract data set, the set h
 ```
 - All the above operations were used using the Red-Black tree data structure. This data structure hold certain advantages, for example, maintaing balance and ensuring efficient operations for operations such as insertion, deletion and searching. By ensuring self-balancing the tree's height remains logarithmic, which leads to efficient search and insertions times (O(log n)).
 
--To measure efficiency of the code I used three different data structures (Linked Lists, Red-Black Trees and and compared time taken for them to compile and execute. These codes have been included in the "Comparisons" folder, and the results logged here: 
+- To gauge the code's efficiency, I employed two distinct data structures (Linked Lists and a greedy algorithm) to evaluate their performance in contrast to Red-Black Trees. The code samples for these evaluations can be found in the "Comparisons" folder, and the results are documented below: 
 
 ![image](https://github.com/Neo-3l/Data-Structure/assets/114653081/9f8fd42e-1abf-4ab2-b251-f33f5ddb340c)
 
