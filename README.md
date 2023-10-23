@@ -1,4 +1,5 @@
-# Data-Structure - The Set data type
+# Data-Structure | The Set data type
+![](https://user-images.githubusercontent.com/114653081/212480507-413faa1c-7821-42ba-b617-47519764f3ce.svg)
 
 This program runs code efficient calculations on an abstract data set, the set has no particular order and no repetition. The data in the set may be Bool, Char, Int or any other data structure.
 
@@ -30,4 +31,10 @@ This program runs code efficient calculations on an abstract data set, the set h
 *(Comparison between compile and execution times)*
 
 All of these data structures display considerable efficiency, with the Red-Black Tree emerging as the top performer overall. 
-ESpeed test was carried out multiple times and averaged under the same environment and conditions. 
+Speed test was carried out multiple times and averaged under the same environment and conditions. 
+
+## Resources
+
+https://www.geeksforgeeks.org/introduction-to-red-black-tree/
+https://www.geeksforgeeks.org/data-structures/linked-list/
+https://www.geeksforgeeks.org/greedy-algorithms/
