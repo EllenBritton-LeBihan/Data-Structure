@@ -27,6 +27,7 @@ This program runs code efficient calculations on an abstract data set, the set h
 
 ![image](https://github.com/Neo-3l/Data-Structure/assets/114653081/b2f96cff-9193-4a73-a13f-6792ed3267da)
 
-*Comparison between compile and execution times*
+*(Comparison between compile and execution times)*
 
 All of these data structures display considerable efficiency, with the Red-Black Tree emerging as the top performer overall. 
+ESpeed test was carried out multiple times and averaged under the same environment and conditions. 
