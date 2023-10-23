@@ -22,11 +22,11 @@ This program runs code efficient calculations on an abstract data set, the set h
 
 - To gauge the code's efficiency, I employed two distinct data structures (Linked Lists and a greedy algorithm) to evaluate their performance in contrast to Red-Black Trees. The code samples for these evaluations can be found in the "Comparisons" folder, and the results are documented below: 
 
-![red black tree](https://github.com/Neo-3l/Test-Repo-2/assets/114653081/171e7cc2-3665-4ab3-adeb-2496d783b956)
+![red black tree](https://github.com/Neo-3l/Data-Structure/assets/114653081/215f73e3-ebef-4af9-914a-8bd7a90623d3)
 
-![Greedy](https://github.com/Neo-3l/Test-Repo-2/assets/114653081/ee139ac3-c43e-4d9c-933e-be7b5784f38c)
+![Greedy](https://github.com/Neo-3l/Data-Structure/assets/114653081/76c3cb07-b7b7-4386-b5a3-4cb2a2147a43)
 
-![Linkedlist](https://github.com/Neo-3l/Test-Repo-2/assets/114653081/c71d6e80-052a-4e6d-a4c4-ec5c51ef29fe)
+![Linkedlist](https://github.com/Neo-3l/Data-Structure/assets/114653081/f34be5ce-9042-4832-aeab-37df287e86c9)
 
 *(Comparison between compile and execution times of the different algorithms used for computing the operations)*
 
