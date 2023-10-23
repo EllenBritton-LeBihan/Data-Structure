@@ -1,0 +1,14 @@
+C:\Users\rog\Data-Structure\Comparisons\Linked List\LinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.exe
+C:\Users\rog\Data-Structure\Comparisons\Linked List\LinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.deps.json
+C:\Users\rog\Data-Structure\Comparisons\Linked List\LinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.runtimeconfig.json
+C:\Users\rog\Data-Structure\Comparisons\Linked List\LinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.runtimeconfig.dev.json
+C:\Users\rog\Data-Structure\Comparisons\Linked List\LinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.dll
+C:\Users\rog\Data-Structure\Comparisons\Linked List\LinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.pdb
+C:\Users\rog\Data-Structure\Comparisons\Linked List\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.csproj.AssemblyReference.cache
+C:\Users\rog\Data-Structure\Comparisons\Linked List\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rog\Data-Structure\Comparisons\Linked List\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.AssemblyInfoInputs.cache
+C:\Users\rog\Data-Structure\Comparisons\Linked List\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.AssemblyInfo.cs
+C:\Users\rog\Data-Structure\Comparisons\Linked List\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\rog\Data-Structure\Comparisons\Linked List\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.dll
+C:\Users\rog\Data-Structure\Comparisons\Linked List\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.pdb
+C:\Users\rog\Data-Structure\Comparisons\Linked List\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.genruntimeconfig.cache

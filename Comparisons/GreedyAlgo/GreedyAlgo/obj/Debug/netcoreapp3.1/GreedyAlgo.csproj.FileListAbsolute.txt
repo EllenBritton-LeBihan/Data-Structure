@@ -1,0 +1,14 @@
+C:\Users\rog\Data-Structure\Comparisons\GreedyAlgo\GreedyAlgo\GreedyAlgo\bin\Debug\netcoreapp3.1\GreedyAlgo.exe
+C:\Users\rog\Data-Structure\Comparisons\GreedyAlgo\GreedyAlgo\GreedyAlgo\bin\Debug\netcoreapp3.1\GreedyAlgo.deps.json
+C:\Users\rog\Data-Structure\Comparisons\GreedyAlgo\GreedyAlgo\GreedyAlgo\bin\Debug\netcoreapp3.1\GreedyAlgo.runtimeconfig.json
+C:\Users\rog\Data-Structure\Comparisons\GreedyAlgo\GreedyAlgo\GreedyAlgo\bin\Debug\netcoreapp3.1\GreedyAlgo.runtimeconfig.dev.json
+C:\Users\rog\Data-Structure\Comparisons\GreedyAlgo\GreedyAlgo\GreedyAlgo\bin\Debug\netcoreapp3.1\GreedyAlgo.dll
+C:\Users\rog\Data-Structure\Comparisons\GreedyAlgo\GreedyAlgo\GreedyAlgo\bin\Debug\netcoreapp3.1\GreedyAlgo.pdb
+C:\Users\rog\Data-Structure\Comparisons\GreedyAlgo\GreedyAlgo\GreedyAlgo\obj\Debug\netcoreapp3.1\GreedyAlgo.csproj.AssemblyReference.cache
+C:\Users\rog\Data-Structure\Comparisons\GreedyAlgo\GreedyAlgo\GreedyAlgo\obj\Debug\netcoreapp3.1\GreedyAlgo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rog\Data-Structure\Comparisons\GreedyAlgo\GreedyAlgo\GreedyAlgo\obj\Debug\netcoreapp3.1\GreedyAlgo.AssemblyInfoInputs.cache
+C:\Users\rog\Data-Structure\Comparisons\GreedyAlgo\GreedyAlgo\GreedyAlgo\obj\Debug\netcoreapp3.1\GreedyAlgo.AssemblyInfo.cs
+C:\Users\rog\Data-Structure\Comparisons\GreedyAlgo\GreedyAlgo\GreedyAlgo\obj\Debug\netcoreapp3.1\GreedyAlgo.csproj.CoreCompileInputs.cache
+C:\Users\rog\Data-Structure\Comparisons\GreedyAlgo\GreedyAlgo\GreedyAlgo\obj\Debug\netcoreapp3.1\GreedyAlgo.dll
+C:\Users\rog\Data-Structure\Comparisons\GreedyAlgo\GreedyAlgo\GreedyAlgo\obj\Debug\netcoreapp3.1\GreedyAlgo.pdb
+C:\Users\rog\Data-Structure\Comparisons\GreedyAlgo\GreedyAlgo\GreedyAlgo\obj\Debug\netcoreapp3.1\GreedyAlgo.genruntimeconfig.cache

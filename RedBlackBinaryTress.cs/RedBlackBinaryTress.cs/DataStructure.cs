@@ -462,6 +462,6 @@ public class RedBlackTrees
 
         stopwatch.Stop();
         double elapsedTimeInSeconds = stopwatch.Elapsed.TotalSeconds;
-        Console.WriteLine($"Time taken: {elapsedTimeInSeconds} seconds");
+        Console.WriteLine($"Time taken for Red-Black Tree was: {elapsedTimeInSeconds} seconds");
     }
 }
