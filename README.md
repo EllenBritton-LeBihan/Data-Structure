@@ -24,7 +24,7 @@ This program runs code efficient calculations on an abstract data set, the set h
 
 ![image](https://github.com/Neo-3l/Data-Structure/assets/114653081/9f8fd42e-1abf-4ab2-b251-f33f5ddb340c)
 
-![image](https://github.com/Neo-3l/Data-Structure/assets/114653081/9545c506-8ada-4094-8918-e0ea353e5aed)
+![Greedy](https://github.com/Neo-3l/Test-Repo-2/assets/114653081/ee139ac3-c43e-4d9c-933e-be7b5784f38c)
 
 ![image](https://github.com/Neo-3l/Data-Structure/assets/114653081/b2f96cff-9193-4a73-a13f-6792ed3267da)
 
